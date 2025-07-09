@@ -41,4 +41,4 @@ Selling the codes to other people for money is *strictly prohibited*.
 
 ## Powered By
 
-[![TitanNetwrk](https://img.shields.io/badge/Divide-Projects-green?style=for-the-badge&logo=appveyor)](https://t.me/TitanXSupport)
+[![TitanNetwrk](https://img.shields.io/badge/MrPerfectXd-Projects-green?style=for-the-badge&logo=appveyor)](https://t.me/TitanXSupport)
