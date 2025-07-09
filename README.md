@@ -1,14 +1,5 @@
-# Restrict Channel Robot
+# Channel Restriction Robot
 
-<p align='center'>
-  <img src="https://img.shields.io/github/forks/DivideProjects/restrictchannelrobot?style=flat-square" alt="Forks">
-  <img src="https://img.shields.io/github/stars/DivideProjects/restrictchannelrobot?style=flat-square" alt="Stars">
-  <img src="https://img.shields.io/github/issues/DivideProjects/restrictchannelrobot?style=flat-square" alt="Issues">
-  <img src="https://img.shields.io/github/license/DivideProjects/restrictchannelrobot?style=flat-square" alt="LICENSE">
-  <img src="https://img.shields.io/github/contributors/DivideProjects/restrictchannelrobot?style=flat-square" alt="Contributors">
-  <img src="https://img.shields.io/github/repo-size/DivideProjects/restrictchannelrobot?style=flat-square" alt="Repo Size">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Mrperfectxd/ChannelRestrictionRobot&amp;title=Profile%20Views" alt="Views">
-</p>
 
 <p align='center'>
   <a href="https://go.dev/" alt="made-with-go"> <img src="https://img.shields.io/badge/Made%20with-Go-1f425f.svg?style=flat-square&logo=go&color=blue" /> </a>
