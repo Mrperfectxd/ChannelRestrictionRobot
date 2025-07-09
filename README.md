@@ -7,12 +7,12 @@
   <img src="https://img.shields.io/github/license/DivideProjects/restrictchannelrobot?style=flat-square" alt="LICENSE">
   <img src="https://img.shields.io/github/contributors/DivideProjects/restrictchannelrobot?style=flat-square" alt="Contributors">
   <img src="https://img.shields.io/github/repo-size/DivideProjects/restrictchannelrobot?style=flat-square" alt="Repo Size">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/divideprojects/RestrictChannelRobot&amp;title=Profile%20Views" alt="Views">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Mrperfectxd/ChannelRestrictionRobot&amp;title=Profile%20Views" alt="Views">
 </p>
 
 <p align='center'>
   <a href="https://go.dev/" alt="made-with-go"> <img src="https://img.shields.io/badge/Made%20with-Go-1f425f.svg?style=flat-square&logo=go&color=blue" /> </a>
-  <a href="https://github.com/divideprojects/RestrictChannelRobot" alt="Docker!"> <img src="https://img.shields.io/docker/pulls/divideprojects/restrictchannelrobot" /> </a>
+  <a href="https://github.com/Mrperfectxd/ChannelRestrictionRobot" alt="Docker!"> <img src="https://img.shields.io/docker/pulls/divideprojects/restrictchannelrobot" /> </a>
   <a href="https://hub.docker.com/r/divideprojects/restrictchannelrobot" alt="Docker Image Version"> <img src="https://img.shields.io/docker/v/divideprojects/restrictchannelrobot/latest" /> </a>
   <a href="https://deepsource.io/gh/DivideProjects/restrictchannelrobot/?ref=repository-badge"><img src="https://static.deepsource.io/deepsource-badge-light-mini.svg" alt="DeepSource"></a>
 </p>
@@ -20,7 +20,7 @@
 
 Telegram Bot, written in GoLang to delete messages and ban anonymous users who send as channel in groups.
 
-Can be found on telegram as [@RestrictChannelRobot](https://telegram.dog/RestrictChannelRobot)
+Can be found on telegram as [@ChannelRestrictionBot](https://telegram.dog/ChannelRestrictionBot)
 
 # Variables
  ---------------
@@ -35,11 +35,11 @@ Can be found on telegram as [@RestrictChannelRobot](https://telegram.dog/Restric
 
 ## Deploy via Heroku.
 <p>
-  <a href="https://heroku.com/deploy?template=https://github.com/divideprojects/RestrictChannelRobot"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy"></a>
+  <a href="https://heroku.com/deploy?template=https://github.com/Mrperfectxd/ChannelRestrictionRobot"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy"></a>
 </p>
 
 ## Support   
-Join the [Telegram Group](https://t.me/DivideSupport) for support and the [Channel](https://t.me/DivideProjects) for updates.
+Join the [Telegram Group](https://t.me/Telugu_Grpz) for support and the [Channel](https://t.me/TitanNetwrk) for updates.
 
 Report bugs, give feature requests there...
 Do fork and star :star: the repository if you like it.
@@ -50,4 +50,4 @@ Selling the codes to other people for money is *strictly prohibited*.
 
 ## Powered By
 
-[![DivideProjects](https://img.shields.io/badge/Divide-Projects-green?style=for-the-badge&logo=appveyor)](https://t.me/DivideSupport)
+[![TitanNetwrk](https://img.shields.io/badge/Divide-Projects-green?style=for-the-badge&logo=appveyor)](https://t.me/TitanXSupport)
